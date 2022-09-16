@@ -1,0 +1,17 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://1.bp.blogspot.com/-8oBd42OoT48/YJaAEIrtm1I/AAAAAAAACz0/bP_sBzQoSxsxQytUaCLpm4rPXpIZ_kwCgCNcBGAsYHQ/s712/webRTC-SocketIO-Node.png)](https://www.bloggernepal.com/2021/05/webrtc-video-call-with-socketio-nodejs.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.0.2"
+  }
+}
